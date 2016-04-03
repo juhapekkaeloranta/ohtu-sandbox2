@@ -1,2 +1,2 @@
-nimi: master1
+nimi: muokkaus-masterista!
 puhelin: masteri1
