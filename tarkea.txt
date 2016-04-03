@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 nimi: muokkaus-masterista!
 puhelin: masteri1
+=======
+nimi: master1
+puhelin: toka-branchista-muokkaus!
+>>>>>>> toka
